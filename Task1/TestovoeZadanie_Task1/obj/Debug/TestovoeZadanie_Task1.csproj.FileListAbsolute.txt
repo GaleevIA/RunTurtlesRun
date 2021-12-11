@@ -1,0 +1,7 @@
+C:\Users\Ильяс\source\repos\TestovoeZadanie_Task1\TestovoeZadanie_Task1\bin\Debug\TestovoeZadanie_Task1.exe.config
+C:\Users\Ильяс\source\repos\TestovoeZadanie_Task1\TestovoeZadanie_Task1\bin\Debug\TestovoeZadanie_Task1.exe
+C:\Users\Ильяс\source\repos\TestovoeZadanie_Task1\TestovoeZadanie_Task1\bin\Debug\TestovoeZadanie_Task1.pdb
+C:\Users\Ильяс\source\repos\TestovoeZadanie_Task1\TestovoeZadanie_Task1\obj\Debug\TestovoeZadanie_Task1.csproj.AssemblyReference.cache
+C:\Users\Ильяс\source\repos\TestovoeZadanie_Task1\TestovoeZadanie_Task1\obj\Debug\TestovoeZadanie_Task1.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс\source\repos\TestovoeZadanie_Task1\TestovoeZadanie_Task1\obj\Debug\TestovoeZadanie_Task1.exe
+C:\Users\Ильяс\source\repos\TestovoeZadanie_Task1\TestovoeZadanie_Task1\obj\Debug\TestovoeZadanie_Task1.pdb
